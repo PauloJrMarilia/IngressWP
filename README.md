@@ -1,4 +1,4 @@
-iOS Ingress
+Ingress for Windows Phone 8
 ===========
 
 Fully playable Google's AR Game Ingress port for Windows Phone.
